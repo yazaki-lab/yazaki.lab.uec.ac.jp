@@ -1,0 +1,18 @@
+<div class="container p-3">
+  {{ partial "toc.html" . }}
+  <h3>最新記事</h3>
+  <ul>
+  {{ range where site.RegularPages "Section" "posts" | first 10 }}
+    {{ .Render "li" }}
+  {{ end }}
+  </ul>
+
+  <div class="h4 pb-2 mb-4 text-black border-bottom border-black">
+    関連ページ
+  </div>
+    <ul>
+    {{ range site.Params.links }}
+      <li><a href="{{ .url }}">{{ .name }}</a></li>
+    {{ end }}
+    </ul>
+</div>

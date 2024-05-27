@@ -1,0 +1,45 @@
+baseURL = 'https://yazaki.lab.uec.ac.jp/'
+languageCode = 'ja-jp'
+title = '電気通信大学 矢﨑研究室'
+theme = 'yazaki-lab'
+
+[menus]
+[[menus.main]]
+    name = 'Top'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = '記事一覧'
+    pageRef = '/posts'
+    weight = 20
+[[menus.main]]
+    name = '研究室紹介'
+    pageRef = '/about'
+    weight = 30
+[[menus.main]]
+    name = 'メンバー'
+    pageRef = '/members'
+    weight = 40
+[[menus.main]]
+    name = '対外発表'
+    pageRef = '/papers'
+    weight = 50
+[[menus.main]]
+    name = '卒論・修論'
+    pageRef = '/theses'
+    weight = 60
+[[menus.main]]
+    name = '連絡先'
+    pageRef = '/contact'
+    weight = 70
+
+[params]
+subtitle = "The Best Widgets on Earth"
+
+[[params.links]]
+name = "教員のX"
+url = "https://twitter.com/syunjiyazaki"
+
+[[params.links]]
+name = "情報基盤センター"
+url = "http://www.cc.uec.ac.jp/"
