@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: shudolab/shudolab-website
+  repo: yazaki-lab/yazaki.lab.uec.ac.jp
   branch: main
 
 media_folder: "static/images/uploads"
