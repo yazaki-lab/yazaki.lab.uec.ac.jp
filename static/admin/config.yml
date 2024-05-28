@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: yazaki-lab/yazaki.lab.uec.ac.jp
   branch: main
 
