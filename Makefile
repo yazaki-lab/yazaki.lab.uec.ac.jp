@@ -3,3 +3,5 @@ build:
 	hugo
 dev:
 	hugo server --disableFastRender
+decap:
+	npx decap-server
