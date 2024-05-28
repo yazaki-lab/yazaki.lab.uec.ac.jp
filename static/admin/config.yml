@@ -1,8 +1,12 @@
 backend:
   name: github
   repo: yazaki-lab/yazaki.lab.uec.ac.jp
-  branch: main # Branch to update
-  base_url: https://netlify-cms-oauth-brown.vercel.app
+  branch: main
+
+# # when using the default proxy server port
+# local_backend: true
+# backend:
+#   name: git-gateway
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
