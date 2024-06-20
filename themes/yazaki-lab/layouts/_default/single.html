@@ -1,6 +1,6 @@
 {{ define "main" }}
   <div class="container p-3">
-    <h1>{{ .Title }}</h1>
+    <!-- <h1>{{ .Title }}</h1> -->
     {{ $menuPages := slice }}
     {{ range site.Menus.main }}
       {{ $menuPages = $menuPages | append .Page }}

@@ -1,19 +1,19 @@
 ---
-date: '2016-10-18T05:47:26+09:00'
+date: 2016-10-18T05:47:26+09:00
 draft: false
 title: メンバー
 layout: single
 hideDate: true
 ---
 
-### 教員
+# 教員
 
-- 矢﨑 俊志
+- 矢﨑 俊志 ([大学研究者総覧](https://researchers.uec.ac.jp/search/detail?systemId=66331fd1bcf826a4520e17560c007669&lang=ja) / [Researchmap](https://researchmap.jp/syunji))
 
-### 受託研修員
+# B4
 
-- 伊勢谷 元樹
+- 1名
 
-### 学部生
+# 研究員等
 
-- 平地 浩一
+- 1名
