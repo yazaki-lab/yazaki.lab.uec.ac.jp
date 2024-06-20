@@ -6,14 +6,14 @@ layout: single
 hideDate: true
 ---
 
-# 教員
+### Faculty
 
 - 矢﨑 俊志 ([大学研究者総覧](https://researchers.uec.ac.jp/search/detail?systemId=66331fd1bcf826a4520e17560c007669&lang=ja) / [Researchmap](https://researchmap.jp/syunji))
 
-# B4
+### Students
 
 - 1名
 
-# 研究員等
+### Researchers
 
 - 1名

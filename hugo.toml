@@ -1,6 +1,6 @@
 baseURL = 'https://yazaki.lab.uec.ac.jp/'
 languageCode = 'ja-jp'
-title = 'Yazaki Lab., UEC'
+title = 'Yazaki Lab.'
 theme = 'yazaki-lab'
 
 [menus]

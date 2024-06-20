@@ -6,11 +6,11 @@ toc: true
 hideDate: true
 ---
 
-# 論文 / 国際会議 (Papers / Conferences)
+### 論文 / 国際会議 (Papers / Conferences)
 
 https://researchmap.jp/syunji/published_papers
 
-# 研究会発表等 / その他 (Presentations / Others)
+### 研究会発表等 / その他 (Presentations / Others)
 
 https://researchmap.jp/syunji/misc
 
