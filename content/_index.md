@@ -4,7 +4,7 @@ date: Tue, 11 Oct 2016 08:32:42 +0000
 draft: false
 hideDate: true
 cascade:
-  featured_image: '/imgs/featured_top.jpg'
+  featured_image: '/images/featured_top.jpg'
 ---
 
 # 2024/7/15 (日) 11:00 オープンキャンパス研究室公開　　東3号館4F 406 号室

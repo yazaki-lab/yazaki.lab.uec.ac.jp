@@ -5,7 +5,7 @@ draft: false
 toc: true
 hideDate: true
 cascade:
-    featured_image: '/imgs/featured_publications.jpg'
+    featured_image: '/images/featured_publications.jpg'
 ---
 
 ### 論文 / 国際会議 (Papers / Conferences)

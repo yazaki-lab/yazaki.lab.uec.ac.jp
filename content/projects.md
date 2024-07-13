@@ -5,7 +5,7 @@ draft: false
 toc: true
 hideDate: true
 cascade:
-    featured_image: '/imgs/featured_projects.jpg'
+    featured_image: '/images/featured_projects.jpg'
 ---
 
 (Under construction)
