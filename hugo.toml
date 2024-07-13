@@ -5,34 +5,18 @@ title = '矢﨑研究室 Yazaki Lab.'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 [menus]
-#[[menus.main]]
-#    name = 'Top'
-#    pageRef = '/'
-#    weight = 10
-# [[menus.main]]
-#    name = '記事一覧'
-#    pageRef = '/posts'
-#    weight = 20
 [[menus.main]]
-    name = 'About'
-    pageRef = '/about'
-    weight = 30
-[[menus.main]]
-    name = 'Member'
+    name = 'Members'
     pageRef = '/members'
     weight = 40
 [[menus.main]]
-    name = 'Publish'
-    pageRef = '/papers'
+    name = 'Publications'
+    pageRef = '/publications'
     weight = 50
 [[menus.main]]
     name = 'Projects'
-    pageRef = '/theses'
+    pageRef = '/projects'
     weight = 60
-#[[menus.main]]
-#    name = 'Contact'
-#    pageRef = '/contact'
-#    weight = 70
 
 [params]
 subtitle = "The University of Electro-Communications"

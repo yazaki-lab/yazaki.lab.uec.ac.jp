@@ -1,9 +1,11 @@
 ---
-title: 対外発表
+title: Publications
 date: Tue, 18 Oct 2016 05:17:04 +0000
 draft: false
 toc: true
 hideDate: true
+cascade:
+    featured_image: '/img/featured_publications.jpg'
 ---
 
 ### 論文 / 国際会議 (Papers / Conferences)
