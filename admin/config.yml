@@ -35,33 +35,15 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "研究室紹介"
-        name: "about"
-        file: "content/about.md"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - label: "メンバー"
+      - label: "Members"
         name: "members"
-        file: "content/members/_index.md"
+        file: "content/members.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - label: "対外発表"
-        name: "papers"
-        file: "content/papers.md"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - label: "卒論・修論"
-        name: "theses"
-        file: "content/theses.md"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - label: "連絡先"
-        name: "contact"
-        file: "content/contact.md"
+      - label: "Publications"
+        name: "publications"
+        file: "content/publications.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
