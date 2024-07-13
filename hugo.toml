@@ -1,7 +1,8 @@
 baseURL = 'https://yazaki.lab.uec.ac.jp/'
 languageCode = 'ja-jp'
-title = 'Yazaki Lab.'
-theme = 'yazaki-lab'
+title = '矢﨑研究室 Yazaki Lab.'
+#theme = 'yazaki-lab'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 [menus]
 #[[menus.main]]
@@ -34,7 +35,7 @@ theme = 'yazaki-lab'
 #    weight = 70
 
 [params]
-subtitle = "The Best Widgets on Earth"
+subtitle = "The University of Electro-Communications"
 
 [[params.links]]
 name = "教員のX"
@@ -43,3 +44,7 @@ url = "https://twitter.com/syunjiyazaki"
 [[params.links]]
 name = "情報基盤センター"
 url = "http://www.cc.uec.ac.jp/"
+
+[[params.ananke_socials]]
+name = "X"
+url = "https://twitter.com/syunjiyazaki"

@@ -3,6 +3,9 @@ title: 連絡先 Contact
 date: Tue, 18 Oct 2016 05:39:02 +0000
 draft: false
 hideDate: true
+cascade:
+#  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: '/img/404.png'
 ---
 
 電気通信大学 情報基盤センター 矢崎研究室
