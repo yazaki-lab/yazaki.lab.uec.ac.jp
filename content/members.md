@@ -5,7 +5,7 @@ title: Members
 layout: single
 hideDate: true
 cascade:
-    featured_image: '/img/featured_members.jpg'
+    featured_image: '/imgs/featured_members.jpg'
 ---
 
 ### Faculty

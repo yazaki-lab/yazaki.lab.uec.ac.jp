@@ -5,15 +5,14 @@ draft: false
 toc: true
 hideDate: true
 cascade:
-    featured_image: '/img/featured_publications.jpg'
+    featured_image: '/imgs/featured_publications.jpg'
 ---
 
 ### 論文 / 国際会議 (Papers / Conferences)
 
-https://researchmap.jp/syunji/published_papers
+- https://researchmap.jp/syunji/published_papers
 
 ### 研究会発表等 / その他 (Presentations / Others)
 
-https://researchmap.jp/syunji/misc
-
-https://researchmap.jp/syunji/presentations
+- https://researchmap.jp/syunji/misc
+- https://researchmap.jp/syunji/presentations
