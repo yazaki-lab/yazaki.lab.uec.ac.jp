@@ -16,3 +16,8 @@ cascade:
 
 - https://researchmap.jp/syunji/misc
 - https://researchmap.jp/syunji/presentations
+
+### 受賞 (Awards)
+
+- 情報処理学会インターネットと運用技術研究会, 学生奨励賞, 平地 浩一 (B4), 2024/9.
+

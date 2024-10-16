@@ -5,30 +5,34 @@ title = '矢﨑研究室 Yazaki Lab.'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 [menus]
-[[menus.main]]
-    name = 'Members'
-    pageRef = '/members'
-    weight = 40
-[[menus.main]]
-    name = 'Publications'
-    pageRef = '/publications'
-    weight = 50
-[[menus.main]]
-    name = 'Projects'
-    pageRef = '/projects'
-    weight = 60
+    [[menus.main]]
+        name = 'Members'
+        pageRef = '/members'
+        weight = 40
+    [[menus.main]]
+        name = 'Publications'
+        pageRef = '/publications'
+        weight = 50
+    [[menus.main]]
+        name = 'Projects'
+        pageRef = '/projects'
+        weight = 60
+    [[menus.main]]
+        name = 'For UEC Students'
+        url = 'https://sites.google.com/gl.cc.uec.ac.jp/yazaki-lab/'
+        weight = 70
 
 [params]
-subtitle = "The University of Electro-Communications"
+    subtitle = "The University of Electro-Communications"
 
-[[params.links]]
-name = "教員のX"
-url = "https://twitter.com/syunjiyazaki"
+    [[params.links]]
+    name = "教員のX"
+    url = "https://twitter.com/syunjiyazaki"
 
-[[params.links]]
-name = "情報基盤センター"
-url = "http://www.cc.uec.ac.jp/"
+    [[params.links]]
+    name = "情報基盤センター"
+    url = "http://www.cc.uec.ac.jp/"
 
-[[params.ananke_socials]]
-name = "X"
-url = "https://twitter.com/syunjiyazaki"
+    [[params.ananke_socials]]
+    name = "SNS (X)"
+    url = "https://twitter.com/syunjiyazaki"
