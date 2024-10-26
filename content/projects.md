@@ -8,4 +8,8 @@ cascade:
     featured_image: '/images/featured_projects.jpg'
 ---
 
-(Under construction)
+### 柔軟で最適なユーザー専用のコンピューティング環境
+
+### IoTデバイスによる継続的なWii-Fi環境測定と評価
+
+### インフラ基盤の映像コンテンツとしての可視化

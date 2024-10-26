@@ -1,8 +1,9 @@
 ---
-title: 電気通信大学 矢﨑研究室
+#title: 電気通信大学 矢﨑研究室
 date: Tue, 11 Oct 2016 08:32:42 +0000
 draft: false
 hideDate: true
+layout: single
 cascade:
   featured_image: '/images/featured_top.jpg'
 ---

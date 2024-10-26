@@ -1,6 +1,6 @@
 baseURL = 'https://yazaki.lab.uec.ac.jp/'
 languageCode = 'ja-jp'
-title = '矢﨑研究室 Yazaki Lab.'
+title = '電気通信大学 矢﨑研究室'
 #theme = 'yazaki-lab'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
