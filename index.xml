@@ -2,7 +2,7 @@
 そこで、仮想化やコンテナ化といった技術を応用し、適切な粒度でユーザー毎の専用の環境を動的に提供する仕組みを開発しています。
 ユーザーだけでなく、管理者側にとってもコンピュータにアクセスされた時に動的で環境が作成されることから、利用者が少ない時など無駄なリソースが消費されないという利点があります。
 平地 浩一, 矢崎 俊志, “柔軟で動的な実行環境を提供するためのコンテナ型仮想化基盤アーキテクチャの検討,” 情報処理学会研究報告インターネットと運用技術, vol. 2024-IOT-67, no. 5, pp. 1–6, Sep. 2024.
-IoTデバイスによる継続的なWii-Fi環境測定と評価 現代における重要インフラとなったWi-Fi環境でのユーザー体験は、場所やサービスへの満足度のみならず、これらを提供する事業者に対する印象をも左右するまでになりました。
+IoTデバイスによる継続的なWi-Fi環境測定と評価 現代における重要インフラとなったWi-Fi環境でのユーザー体験は、場所やサービスへの満足度のみならず、これらを提供する事業者に対する印象をも左右するまでになりました。
 利用状況や電波環境など、外因により様々な影響を受けるWi-Fi環境の評価においては、多くの観測点から長期間のデータ収集し俯瞰的な分析をする必要があります． このようなデータを収集する基盤の構築と、その分析方法について研究しています。
 映像コンテンツとしてのインフラ基盤可視化 現代の情報インフラの構成は一昔前の物理的なサーバーやネットワークの組合せによる単純なものとは異なります。 仮想化されたサーバやネットワークの組合せだけでなく、様々なクラウドサービスとの連携の上に現代の情報インフラは成立しています。
 このように粒度や特徴が異なる様々な要素で構成された情報インフラを理解するためには、従来の可視化では不十分です。 映像表現の専門家と連携して、利用者として情報システムの専門家／非専門家を問わない映像コンテンツとしての可視化について研究しています。</description></item><item><title>Publications</title><link>https://yazaki.lab.uec.ac.jp/publications/</link><pubDate>Tue, 18 Oct 2016 05:17:04 +0000</pubDate><guid>https://yazaki.lab.uec.ac.jp/publications/</guid><description>論文 / 国際会議 (Papers / Conferences) https://researchmap.jp/syunji/published_papers 研究会発表等 / その他 (Presentations / Others) https://researchmap.jp/syunji/misc https://researchmap.jp/syunji/presentations 受賞 (Awards) 情報処理学会インターネットと運用技術研究会, 学生奨励賞, 平地 浩一 (B4), 2024/9.</description></item><item><title>Members</title><link>https://yazaki.lab.uec.ac.jp/members/</link><pubDate>Tue, 18 Oct 2016 05:47:26 +0900</pubDate><guid>https://yazaki.lab.uec.ac.jp/members/</guid><description>Faculty 矢﨑 俊志 - Syunji Yazaki - (大学研究者総覧 / Researchmap) Students 平地 浩一 - Koichi Hirachi - (B4) Researchers 伊勢谷 元樹 - Motoki Iseya -</description></item></channel></rss>
