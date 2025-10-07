@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>電気通信大学 矢﨑研究室</title><link>https://yazaki.lab.uec.ac.jp/</link><description>Recent content on 電気通信大学 矢﨑研究室</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Tue, 18 Oct 2016 05:33:08 +0000</lastBuildDate><atom:link href="https://yazaki.lab.uec.ac.jp/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects</title><link>https://yazaki.lab.uec.ac.jp/projects/</link><pubDate>Tue, 18 Oct 2016 05:33:08 +0000</pubDate><guid>https://yazaki.lab.uec.ac.jp/projects/</guid><description>&lt;h2 id="current-projects"&gt;Current Projects&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TOP on 電気通信大学 矢﨑研究室</title><link>https://yazaki.lab.uec.ac.jp/</link><description>Recent content in TOP on 電気通信大学 矢﨑研究室</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Tue, 18 Oct 2016 05:33:08 +0000</lastBuildDate><atom:link href="https://yazaki.lab.uec.ac.jp/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects</title><link>https://yazaki.lab.uec.ac.jp/projects/</link><pubDate>Tue, 18 Oct 2016 05:33:08 +0000</pubDate><guid>https://yazaki.lab.uec.ac.jp/projects/</guid><description>&lt;h2 id="current-projects"&gt;Current Projects&lt;/h2&gt;
 &lt;h3 id="柔軟で最適なユーザー専用のコンピューティング環境"&gt;柔軟で最適なユーザー専用のコンピューティング環境&lt;/h3&gt;
 &lt;p&gt;&lt;img src="https://yazaki.lab.uec.ac.jp/images/uploads/simple.png" alt=""&gt;&lt;/p&gt;
 &lt;p&gt;授業や研究で使うコンピュータでは、一人ひとりが安心して作業できる専用の環境が必要です。しかし、複数人で同じコンピュータを共有して使おうとすると、各自の権限や使えるリソースが制限されて不便になります。&lt;/p&gt;
@@ -28,6 +28,10 @@
 &lt;li&gt;&lt;a href="https://researchmap.jp/syunji/presentations"&gt;https://researchmap.jp/syunji/presentations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="受賞と入選-awards-and-selections"&gt;受賞と入選 (Awards and Selections)&lt;/h2&gt;
+&lt;h3 id="2025年度-fy-2025"&gt;2025年度 (FY 2025)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2025年度 第3回 (IOT71) 情報処理学会インターネットと運用技術研究会, 優秀学生賞, 平地 浩一 (B4), 2025/9. (&lt;a href="https://www.iot.ipsj.or.jp/meeting/71-report/"&gt;URL&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id="2024年度-fy-2024"&gt;2024年度 (FY 2024)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;令和6年度目黒会賞 (電気通信大学同窓会), 平地 浩一 (B4), 2025/3. (&lt;a href="https://megurokai.jp/home2/category/dosokaisho/#%E4%BB%A4%E5%92%8C6%E5%B9%B4%E5%BA%A6%E7%9B%AE%E9%BB%92%E4%BC%9A%E8%B3%9E"&gt;URL&lt;/a&gt;)&lt;/li&gt;
@@ -35,7 +39,9 @@
 &lt;li&gt;2024年度 第3回 (IOT67) 情報処理学会インターネットと運用技術研究会, 学生奨励賞, 平地 浩一 (B4), 2024/9. (&lt;a href="https://www.iot.ipsj.or.jp/meeting/67-report/"&gt;URL&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Members</title><link>https://yazaki.lab.uec.ac.jp/members/</link><pubDate>Tue, 18 Oct 2016 05:47:26 +0900</pubDate><guid>https://yazaki.lab.uec.ac.jp/members/</guid><description>&lt;h3 id="faculty"&gt;Faculty&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;矢﨑 俊志 - Syunji Yazaki - (&lt;a href="https://researchers.uec.ac.jp/search/detail?systemId=66331fd1bcf826a4520e17560c007669&amp;amp;lang=ja"&gt;大学研究者総覧&lt;/a&gt; / &lt;a href="https://researchmap.jp/syunji"&gt;Researchmap&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;矢﨑 俊志 - Syunji Yazaki - (&lt;a href="https://researchers.uec.ac.jp/search/detail?systemId=66331fd1bcf826a4520e17560c007669"&gt;大学研究者総覧&lt;/a&gt; / &lt;a href="https://researchmap.jp/syunji"&gt;Researchmap&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;松橋 拓人 - Takuto Matsuhashi - (&lt;a href="https://researchers.uec.ac.jp/search/detail.html?systemId=9e095cf9d98f99c1520e17560c007669"&gt;大学研究者総覧&lt;/a&gt; / &lt;a href="https://researchmap.jp/takutomatsuhashi"&gt;Researchmap&lt;/a&gt;) 連携教員&lt;/li&gt;
+&lt;li&gt;住吉 晶 - Akira Sumiyoshi - (&lt;a href="https://researchers.uec.ac.jp/search/detail.html?systemId=7805e94246720c08520e17560c007669"&gt;大学研究者総覧&lt;/a&gt; / &lt;a href="https://researchmap.jp/bQxBPqUYiITCyXORSmlK"&gt;Researchmap&lt;/a&gt;) 連携教員&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="students"&gt;Students&lt;/h3&gt;
 &lt;ul&gt;
