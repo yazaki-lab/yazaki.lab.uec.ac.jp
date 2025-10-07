@@ -7,15 +7,15 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 [menus]
     [[menus.main]]
         name = 'Members'
-        pageRef = '/members'
+        url = '/members'
         weight = 40
     [[menus.main]]
         name = 'Publications'
-        pageRef = '/publications'
+        url = '/publications'
         weight = 50
     [[menus.main]]
         name = 'Projects'
-        pageRef = '/projects'
+        url = '/projects'
         weight = 60
     [[menus.main]]
         name = 'For UEC Students'

@@ -1,9 +1,10 @@
 ---
 title: Projects
-date: Tue, 18 Oct 2025 05:33:08 +0000
+date: Tue, 11 Oct 2016 08:32:42 +0000
 draft: false
-toc: true
+layout: single
 hideDate: true
+toc: true
 cascade:
   featured_image: /images/featured_projects.jpg
 ---

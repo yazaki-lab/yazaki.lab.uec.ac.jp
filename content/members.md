@@ -1,11 +1,11 @@
 ---
-date: 2026-10-18T05:47:26+09:00
+#title: 電気通信大学 矢﨑研究室
+date: Tue, 11 Oct 2016 08:32:42 +0000
 draft: false
-title: Members
-layout: single
 hideDate: true
+layout: single
 cascade:
-    featured_image: '/images/featured_members.jpg'
+    featured_image: /images/featured_members.jpg
 ---
 
 ### Faculty

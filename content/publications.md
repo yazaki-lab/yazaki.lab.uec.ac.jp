@@ -1,11 +1,11 @@
 ---
 title: Publications
-date: Tue, 18 Oct 2025 05:17:04 +0000
+date: Tue, 11 Oct 2016 08:32:42 +0000
 draft: false
-toc: true
+layout: single
 hideDate: true
 cascade:
-    featured_image: '/images/featured_publications.jpg'
+    featured_image: /images/featured_publications.jpg
 ---
 
 ### 論文 / 国際会議 (Papers / Conferences)
