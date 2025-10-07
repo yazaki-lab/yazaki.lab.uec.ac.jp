@@ -1,8 +1,0 @@
-{{ define "main" }}
-  <div class="container p-3">
-    {{ .Content }}
-    {{ range where site.RegularPages "Section" "posts" | first 3 }}
-      {{ .Render "summary" }}
-    {{ end }}
-  </div>
-{{ end }}
