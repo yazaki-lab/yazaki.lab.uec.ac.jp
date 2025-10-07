@@ -1,0 +1,6 @@
+public
+resources/_gen
+.git
+.github
+node_modules
+.hugo_build.lock
