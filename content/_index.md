@@ -4,7 +4,7 @@ draft: false
 hideDate: true
 layout: single
 cascade:
-  featured_image: /images/featured_top.jpg
+  featured_image: '/images/featured_top.jpg'
 title: TOP
 ---
 ### インターネット基盤技術
