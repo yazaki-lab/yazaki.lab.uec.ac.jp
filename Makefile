@@ -3,6 +3,7 @@
 HUGO_IMAGE := hugomods/hugo:exts-0.150.1
 
 build:
+	rm -rf public resources/_gen
 	docker run --rm \
 		-v $(PWD):/src \
 		$(HUGO_IMAGE) \
