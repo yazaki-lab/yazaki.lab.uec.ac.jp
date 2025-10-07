@@ -5,7 +5,7 @@ draft: false
 toc: true
 hideDate: true
 cascade:
-  featured_image: /images/featured_publications.jpg
+    featured_image: '/images/featured_publications.jpg'
 ---
 
 ### 論文 / 国際会議 (Papers / Conferences)
@@ -18,10 +18,6 @@ cascade:
 - https://researchmap.jp/syunji/presentations
 
 ## 受賞と入選 (Awards and Selections)
-
-### 2025年度 (FY 2025)
-
-- 2025年度 第3回 (IOT71) 情報処理学会インターネットと運用技術研究会, 優秀学生賞, 平地 浩一 (B4), 2025/9. ([URL](https://www.iot.ipsj.or.jp/meeting/71-report/))
 
 ### 2024年度 (FY 2024)
 
