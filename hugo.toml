@@ -25,6 +25,9 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 [params]
     subtitle = "The University of Electro-Communications"
 
+    custom_css = ["custom.css"]
+    body_classes = "custom"
+
     [[params.links]]
     name = "教員のX"
     url = "https://twitter.com/syunjiyazaki"
