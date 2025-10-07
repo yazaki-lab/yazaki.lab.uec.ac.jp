@@ -1,6 +1,6 @@
 .PHONY: build dev decap stop clean
 
-HUGO_IMAGE := hugomods/hugo:exts-0.127.0
+HUGO_IMAGE := hugomods/hugo:exts-0.150.1
 
 build:
 	docker run --rm \

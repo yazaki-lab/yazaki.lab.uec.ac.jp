@@ -21,7 +21,7 @@ jobs:
         run: |
           docker run --rm \
             -v ${{ github.workspace }}:/src \
-            hugomods/hugo:exts-0.127.0 \
+            hugomods/hugo:exts-0.150.1 \
             hugo --minify
 
       - name: Deploy
