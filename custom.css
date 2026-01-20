@@ -1,5 +1,6 @@
 /* Hide date on pages */
 .post-meta time,
-.article-info time {
+.article-info time,
+time.f6.mv4.dib.tracked {
     display: none;
 }
