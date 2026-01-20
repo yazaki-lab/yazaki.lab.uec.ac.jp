@@ -1,0 +1,5 @@
+/* Hide date on pages */
+.post-meta time,
+.article-info time {
+    display: none;
+}
