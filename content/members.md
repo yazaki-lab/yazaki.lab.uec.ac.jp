@@ -17,11 +17,13 @@ cascade:
 
 ### Students
 
-- 平地 浩一 - Koichi Hirachi - (M1)
-- 上川 雅弘 - Masahiro Kamikawa - (B4)
-
+- 平地 浩一 - Koichi Hirachi - (M2)
+- 上川 雅弘 - Masahiro Kamikawa - (M1)
+- 八木 俊介 - Shunsuke Yagi - (B4)
+- 宇野 貴昭 - Takaaki Uno - (B4)
+- 佐伯 明俊 - Akitoshi Saeki - (B3)
 <!-- ### Researchers -->
 
 ### Past members
 
-- 伊勢谷 元樹 - Motoki Iseya - (研修生, 2024.04 - 2025.03)
+- 伊勢谷 元樹 - Motoki Iseya - (受託研修生, 2024.04 - 2025.03)
