@@ -4,7 +4,6 @@ date: Tue, 11 Oct 2016 08:32:42 +0000
 draft: false
 layout: single
 hideDate: true
-toc: true
 cascade:
   featured_image: /images/featured_projects.jpg
 ---

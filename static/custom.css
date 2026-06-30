@@ -4,3 +4,10 @@
 time.f6.mv4.dib.tracked {
     display: none;
 }
+
+/* Widen content area */
+.mw7 { max-width: 44rem; }
+.mw8 { max-width: 70rem; }
+
+/* Full width content (sidebar removed) */
+.w-two-thirds-l { width: 100%; }
